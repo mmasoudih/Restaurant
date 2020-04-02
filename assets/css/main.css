@@ -134,6 +134,10 @@ ul li {
 .display{
     display: block;
 }
+.f-right{
+    display: inline;
+    float: right;
+}
 @keyframes animate {
     0% {
         width: 0;
